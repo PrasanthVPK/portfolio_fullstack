@@ -10,6 +10,10 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  --color-bottle-green: #006a4e;
+  --color-bottle-green-dark: #004b3a;
+  --color-bottle-green-hover: #007f5c;
 }
 
 @media (prefers-color-scheme: dark) {
